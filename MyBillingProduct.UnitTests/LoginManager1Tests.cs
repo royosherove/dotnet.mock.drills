@@ -2,8 +2,7 @@
 
 namespace MyBillingProduct.UnitTests
 {
-    //rename this class as needed
-    public class Class1
+    public class LoginManager1Tests
     {
         [Test]
         public void FirstTest()
